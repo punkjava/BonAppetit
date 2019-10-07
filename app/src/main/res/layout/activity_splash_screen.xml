@@ -9,11 +9,10 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="372dp"
-        android:layout_height="271dp"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="112dp"
+        android:layout_width="340dp"
+        android:layout_height="294dp"
+        android:layout_centerInParent="true"
+        android:contentDescription="TODO"
         app:srcCompat="@drawable/logo"
         tools:layout_editor_absoluteX="82dp"
         tools:layout_editor_absoluteY="126dp" />
